@@ -1,4 +1,6 @@
 # Research Topics
 ## Transfer Learning
-### Topic 1
-
+## Deep Generative Models
+## Memory Networks
+## Adversarial Learning
+## Explainable AI
