@@ -3,3 +3,6 @@
 # Memory Networks
 # Adversarial Learning
 # Explainable AI
+# Software
+## [Keras Tutorial]
+## [Tensor Flow Examples]
