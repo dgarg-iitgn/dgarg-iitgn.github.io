@@ -4,5 +4,5 @@
 # Adversarial Learning
 # Explainable AI
 # Software
-## [Keras Tutorial]
-## [Tensor Flow Examples] (https://github.com/dgarg-iitgn/TensorFlow-Examples/blob/master/README.md)
+## Keras Tutorial
+## [Tensor Flow Examples](https://github.com/dgarg-iitgn/TensorFlow-Examples/blob/master/README.md)
