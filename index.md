@@ -1,7 +1,7 @@
 # [Getting Started with Deep Learning](Getting_Started_with_DL.md)
 # Transfer Learning & Domain Adaption
 # [Deep Generative Models](DGM.md)
-# Memory Networks
+# [Memory Networks](Memory_Networks.md)
 # Adversarial Learning
 # Explainable AI
 # Software
