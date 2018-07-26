@@ -9,3 +9,8 @@
 |[BiDAF ](https://arxiv.org/abs/1503.08895)                                      | S. Sukhbaatar   et. al.  | 2015 |
 |[QANet](https://arxiv.org/abs/1503.08895)                                      | Adams   et. al.                       | 2018 |
 |[Adversarial Generation of Natural Language](https://arxiv.org/abs/1503.08895). | Rajeswar   et. al.                       | 2017 |
+
+
+## Slides:
+
+[Machine Comprehension](https://docs.google.com/presentation/d/1vPh8VpwuyCNSF_GiJVeGbYmHigP0F6VuXIMBRaXWtkU/edit?usp=sharing)
