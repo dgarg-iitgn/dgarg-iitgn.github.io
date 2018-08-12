@@ -20,3 +20,5 @@
 - [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 - [bAbI – Facebook Research](https://research.fb.com/downloads/babi/)
 - [AI2 Reasoning Challenge (ARC)](http://data.allenai.org/arc/)
+- [SNLI Datasets]
+  
