@@ -14,3 +14,9 @@
 ## Slides:
 
 [Machine Comprehension](https://docs.google.com/presentation/d/1vPh8VpwuyCNSF_GiJVeGbYmHigP0F6VuXIMBRaXWtkU/edit?usp=sharing)
+
+## Datasets/Challenges
+
+- [The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+- [bAbI – Facebook Research](https://research.fb.com/downloads/babi/)
+- [AI2 Reasoning Challenge (ARC)](http://data.allenai.org/arc/)
